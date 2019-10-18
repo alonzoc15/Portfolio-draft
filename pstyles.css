@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    font-family: Raleway;
+    color: #777;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #3ff1d8 0%, #c4b823 100%);
+    text-align: center;
+    height: 100%;
+}
+
+.footer-nav img {
+    width: 30px;
+    height: 30px;
+}
+
+.main-footer-container ul {
+    text-align: start;
+}

@@ -1,0 +1,1 @@
+Portfolio drafting and initial design using basic HTML and CSS concepts
